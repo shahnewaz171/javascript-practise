@@ -17,7 +17,9 @@
 // total  = total.toFixed(5); //Specific output Digit//
 // console.log(total);
 
-// ==== //
+
+
+// ==Increment == //
 var price1 = 22;
 var price2 = 20;
 // var newprice1 = price1 + 1; //Increment 
@@ -25,4 +27,10 @@ var price2 = 20;
 // price1++; //Another way Increment 1
 price2--;
 console.log(price2);
+
+// ==== //
+var firstName = "Muhammad";
+var secondName = "Shahnewaz";
+var fullName = firstName + ' ' + secondName;
+console.log(fullName);
 
