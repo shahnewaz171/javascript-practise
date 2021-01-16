@@ -49,6 +49,10 @@ friendAge.push(20);
 console.log(friendAge);
 friendAge.pop();
 console.log(friendAge);
+friendAge.shift(); //It can delete elements in starting array elements
+console.log(friendAge);
+friendAge.unshift(5); //It can add elements in starting array elements
+console.log(friendAge);
 
 
 //==Element Length==//
