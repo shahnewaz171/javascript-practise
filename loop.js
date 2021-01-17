@@ -1,4 +1,4 @@
-//While loop hocche conditional loop, jotokhn porjonto condition allow korbe tokhon poronto run korbe
+//While loop-- Its conditional loop. It will be executed as long as the condition allows.//
 
 // var num = 10;
 
@@ -11,7 +11,7 @@
 // }
 
 
-//===forLoop//
+//===ForLoop---It will work according to the limit.//
 
 var numbers = ['55', '40', '30', '20', '10', '5', '15'];
 
