@@ -68,3 +68,13 @@ console.log(friendAge.length);
 friendAge.push(15);
 friendAge.push(20);
 console.log(friendAge.length);
+
+
+//==Removed elements==//
+var teaLine = ['Palam', 'Kalam', 'Jalam', 'Balam', "Dalam"];
+var part = teaLine.slice(2); //
+
+var part = teaLine.slice(2,5); //another way
+
+console.log(part);
+

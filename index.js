@@ -34,3 +34,8 @@ var secondName = "Shahnewaz";
 var fullName = firstName + ' ' + secondName;
 console.log(fullName);
 
+var num1 = '99.5';
+
+var num2 = 15;
+
+console.log(num1+num2);
